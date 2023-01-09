@@ -1,0 +1,138 @@
+.div
+{
+    border-style: solid;
+    border-color: rgb(185, 184, 184);
+    border-width: 1px;
+    text-align: center;
+    /* border-spacing: 20px; */
+/* display: block ; */
+
+width: 400px;
+position: absolute; 
+top: 50px;
+left: 700px;
+float: right;
+ 
+
+
+}
+#email
+{
+    
+width: 56%;
+border-radius: 3px;
+ padding: 10px 10px 10px 20px ;
+}
+#insta{
+    color: rgb(39, 38, 38);
+     text-decoration: none ;
+
+     padding: 0px 5px 3px 2px;
+}
+#password 
+{
+    
+    width: 56%;
+    border-radius: 3px;
+    padding: 10px 10px 10px 22px;
+}
+#login{
+background-color:  #3fb1fd;
+color: white;
+width: 64%;
+border-radius: 10px;
+ border-color: aliceblue;
+text-align: top;
+position: absolute;
+left: 70px;
+padding: 0px 10px 40px 19px;
+height: 40px;
+}
+/* #line1{
+    width: 70px;
+    padding: 15px 15px 15px 0px ;
+    border-left: white;
+    border-right :white;
+    border-bottom: white ;
+    margin-left: 180px;
+    opacity: 0.8;
+}
+#line2{
+    width: 70px;
+    padding: 1px 5px 15px 100px ;
+    border-left: white;
+    border-right :white;
+    border-bottom: white ;
+    margin-left: 180px;
+    opacity: 0.8;
+} */
+ fieldset{
+    border-bottom: white;
+    border-right: white;
+    border-left: white;
+    width: 57%;
+    margin: 20px 9px 20px 80px ;
+    opacity: 0.8;
+ }
+ #facebook{
+    color: rgb(34, 34, 36);
+ text-decoration:none ;
+ display: inline-block;
+
+ }
+
+ #icon
+ {
+width: 17px;
+height: 15px;
+display: inline;
+
+ }
+ #forgot{
+    text-decoration:none ;
+  color: rgb(49, 49, 49);
+ }
+ 
+#account{
+
+    border-width: 2px;
+    border-radius: 2px;
+    
+position: absolute;
+bottom: 50px;
+right: 370px;
+
+}
+#sign{
+    text-decoration: none;
+    color: #3fb1fd;
+}
+#down{
+ border-color: #000000;
+ border-style: solid;
+ width: 100px;
+ border:20px auto ;
+text-align: center; 
+}
+#app
+{
+    border-color: #000000;
+    /* border-style: solid; */
+    border:20px auto ;
+    margin:10px;
+   
+     
+   }
+   .account{
+    display: block;
+    text-align: center;
+   }
+.account div{
+    display: inline-block;
+}
+#a{
+     text-align: right;
+   position: absolute;
+ 
+
+}
